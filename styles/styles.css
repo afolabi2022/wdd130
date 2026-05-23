@@ -31,7 +31,7 @@ main img {
     padding: 2px;
     box-shadow: 0 0 30px gray;
     float: right;
-    margin: 0 0 1rem 1rem;
+    margin: 1rem;
 }
 
 p {
@@ -69,8 +69,8 @@ aside img {
 
 aside h2 {
     position: absolute;
-    top: 67px;
-    left: 150px;
+    top: 20px;
+    left: 20px;
 }
 
 footer {
@@ -80,6 +80,7 @@ footer {
 }
 
 /* Class selectors */
+
 .box {
     margin: 1rem;
     border: 1px solid rgba(0, 0, 0, .1);
